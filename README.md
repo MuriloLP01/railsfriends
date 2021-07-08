@@ -1,24 +1,7 @@
-# README
+# Friends List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello, my name is Murilo Leão. I'm learning Ruby on Rails.
 
-Things you may want to cover:
+I made this app based on a John Elder's tutorial! You can find it in the link below:
+https://www.youtube.com/watch?v=fmyvWz5TUWg
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
